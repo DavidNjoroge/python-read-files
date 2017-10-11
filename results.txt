@@ -1,1 +1,0 @@
-["high-level", "general-purpose", "interpreted", "readability", "paradigms", "object-oriented", "Python.", ]
